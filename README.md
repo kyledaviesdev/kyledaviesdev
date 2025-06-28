@@ -24,7 +24,7 @@ My toolkit is ever-evolving, but here are some of the technologies I frequently 
 
 ### 🌱 What I'm Currently Learning/Working On
 
-* **Storymasters:** A webpage for storytellers or Dungeon Masters for Dungeons and Dragons. Provides a resource to track characters or generate different ideas for characters or story beats.
+* **[Storymasters](https://kyledaviesdev.github.io/Storymasters/):** A webpage for storytellers or Dungeon Masters for Dungeons and Dragons. Provides a resource to track characters or generate different ideas for characters or story beats.
 * **Learning App Creation:** By using Java and Kotlin, I have made some basic applications, but would like to learn to apply that to an APK.
 * **Learning Database UI:** I have a good understanding of the back-end of databases using Microsoft SQL Server but would like to learn more front-end knowledge and make a UI for a database backend keeping track of data.
 

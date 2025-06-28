@@ -14,11 +14,11 @@ Beyond coding, you can find me going on walks, playing games, and reading fantas
 
 My toolkit is ever-evolving, but here are some of the technologies I frequently use:
 
-* **Languages:** `[Python]` `[JavaScript]` `[C#]` `[Java]` `[Kotlin]` (adjust as needed)
-* **Frontend:** `[React]` `[Vue.js]` `[Angular]` `[HTML/CSS]` (adjust as needed)
-* **Databases:** `[Microsoft SQL Server]` `[MySQL]` (adjust as needed)
-* **Cloud & DevOps:** `[Google Cloud Platform]` `[Docker]` `[Git]` (adjust as needed)
-* **Other:** `[VS Code]` `[Linux]` (adjust as needed)
+* **Languages:** `Python` `JavaScript` `C#` `Java` `Kotlin`
+* **Frontend:** `HTML/CSS`
+* **Databases:** `Microsoft SQL Server` `MySQL`
+* **Cloud & DevOps:** `Google Cloud Platform` `Docker` `Git`
+* **Other:** `VS Code` `Linux`
 
 ---
 
